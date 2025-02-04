@@ -1,5 +1,5 @@
 # Tutorial on basic neural network concepts
-This turoium was held at 
+This turoium was held at the [Deep Learning School](https://indico.desy.de/event/40559/timetable/) 'Basic Concepts' of the [ErUM-Data-Hub](https://erumdatahub.de).
 
 [![DOI](https://zenodo.org/badge/759758400.svg)](https://zenodo.org/doi/10.5281/zenodo.10792272)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
