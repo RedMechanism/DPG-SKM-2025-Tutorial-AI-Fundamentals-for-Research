@@ -71,7 +71,7 @@ You need to install the dependencies before running the notebooks.
 
 If you don't have conda installed already and want to use conda for environment management, you can install the miniconda as [described here](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html).
 
-- Create a conda env with `conda create -n nn-tutorial python=3.10`
+- Create a conda env with `conda create -n nn-tutorial python=3.10.3`
 - Activate the environment with `conda activate nn-tutorial`
 - Install the required packages via `pip install -r requirements.txt`.
 - Run the following commands:
@@ -151,3 +151,5 @@ Please use this DOI when citing this code:
 ## Disclaimer
 
 The content of this repository was developed by the [AI4Accelerators team](https://www.ibpt.kit.edu/AI4Accelerators.php) at the [Institute of Beam Physics and Technology (IBPT)](https://www.ibpt.kit.edu/), [Karlsruhe Institute of Technology](https://www.kit.edu/english/).
+
+
