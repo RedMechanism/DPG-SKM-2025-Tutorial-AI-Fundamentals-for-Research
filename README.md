@@ -14,10 +14,6 @@ This turoium was held at the [Deep Learning School](https://indico.desy.de/event
   - [Part 1: Introduction to neural networks](https://github.com/RedMechanism/DPG-SKM-2025-Tutorial-AI-Fundamentals-for-Research/blob/main/slides/nns-part1.pdf)
   - [Part 2: Introduction to neural networks](https://github.com/RedMechanism/DPG-SKM-2025-Tutorial-AI-Fundamentals-for-Research/blob/main/slides/nns-part2.pdf)
 
-- The tutorial in slide form is here
-  - [Part 1: Neural network basics](https://github.com/RedMechanism/DPG-SKM-2025-Tutorial-AI-Fundamentals-for-Research/1-neural-networks.html#/)
-  - [Part 2: Training on MNIST dataset](https://github.com/RedMechanism/DPG-SKM-2025-Tutorial-AI-Fundamentals-for-Research/2-mnist-training.html#/)
-
 ## Download the repository
 
 ### Get the repository with Git
