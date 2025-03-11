@@ -1,6 +1,11 @@
-h5py
-matplotlib
 numpy
 torch
-torchvision
+seaborn
+matplotlib
 notebook
+h5py
+scikit-image
+scikit-learn
+scikit-optimize
+ipywidgets
+ipykernel
